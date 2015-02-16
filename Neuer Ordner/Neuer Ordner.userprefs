@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UI\ToDoList.cs">
+    <Files>
+      <File FileName="Assets\Scripts\UI\DepatureBoard.cs" Line="18" Column="14" />
+      <File FileName="Assets\Scripts\InteractionDialog.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\ToDoList.cs" Line="19" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
